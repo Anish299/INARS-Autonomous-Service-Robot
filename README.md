@@ -1,4 +1,4 @@
-# 🤖 INARS — Autonomous Indoor Service Robot
+#  INARS — Autonomous Indoor Service Robot
 
 <p align="center">
   <strong>Intelligent Navigation and Autonomous Robotic System</strong>
@@ -38,44 +38,44 @@ to connect and coordinate the different robotic subsystems.
 
 ## ✨ Key Features
 
-- 🛞 **4-Wheel Mecanum Drive**
+-  **4-Wheel Mecanum Drive**
   - Forward and backward movement
   - Sideways movement
   - Diagonal movement
   - Holonomic motion
 
-- 📡 **LiDAR Navigation**
+-  **LiDAR Navigation**
   - Real-time environment sensing
   - Mapping
   - Localization
   - Obstacle detection
 
-- 🗺️ **SLAM**
+-  **SLAM**
   - Simultaneous Localization and Mapping
   - Indoor environment mapping
   - Robot localization
 
-- 👁️ **Computer Vision**
+-  **Computer Vision**
   - Camera-based environment perception
   - Elevator-button detection
   - Visual interaction support
 
-- 🦾 **Robotic Manipulator**
+-  **Robotic Manipulator**
   - Servo-controlled robotic arm
   - Physical interaction with elevator buttons
 
-- 🧠 **ROS 2 Architecture**
+-  **ROS 2 Architecture**
   - Modular ROS 2 nodes
   - Topic-based communication
   - Sensor and actuator integration
 
-- 🎮 **Teleoperation**
+-  **Teleoperation**
   - Manual robot control
   - Testing and debugging support
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```text
                          ┌─────────────────────┐
